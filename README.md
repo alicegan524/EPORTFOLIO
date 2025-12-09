@@ -1,21 +1,21 @@
 # 👋 Hi, I am Gan Mei Lee  
 
-## Name
+## 👩‍💻 Name
 Gan Mei Lee
 
-## Matric Number
+## 🎀 Matric Number
 A25CS0225
 
-## Course 
+## 💕 Course 
 Bachelor Of Computer Science (Data Engineering) With Honours 
 
-## Faculty 
+## 🏫 Faculty 
 Faculty of Computing
 
-## University 
-University Technology Malaysia 
+## 🗺️ University 
+University Technology Malaysia (Johor Campus)
 
-## Education 
+## 📓 Education 
 ### Matriculation 
 - Malacca Matriculation College   
 - PSPM 4.0   
@@ -24,7 +24,7 @@ University Technology Malaysia
 - SMK Tun Haji Abdul Malek
 - SPM 9A (3A+ 4A 2A- 1B+)
 
-## Position 
+## 🕶️ Position 
 ### University Technology Malaysia 
 - Committee Chinese Debate Team
 - Debater Chinese Debate Team  
@@ -34,17 +34,17 @@ University Technology Malaysia
 - President of the Chinese Language Society
 - Vice President of the Martial Arts Club
 
-## Course 
-- SECI1013 - DISCRETE STRUCTURE
-- SECJ1013 - PROGRAMMING TECHNIQUE 1
-- SECP1513 - TECHNOLOGY AND INFORMATION SYSTEM
-- SECR1013 - DIGITAL LOGIC 
+## 🖥️ Course 
+- [SECI1013 - DISCRETE STRUCTURE](https://github.com/alicegan524/DISCRETE-STRUCTURE.git)
+- [SECJ1013 - PROGRAMMING TECHNIQUE 1](https://github.com/alicegan524/PROGRAMMING-TECHNIQUE-1.git)
+- [SECP1513 - TECHNOLOGY AND INFORMATION SYSTEM](https://github.com/alicegan524/TECHNOLOGY-AND-INFORMATION-SYSTEM.git)
+- [SECR1013 - DIGITAL LOGIC](https://github.com/alicegan524/DIGITAL-LOGIC.git)
 
-## Skills
+## 💪 Skills
 - Java
 - C++
 
-## Contact 
-- GitHub (https://github.com/alicegan524)
-- LinkedIn (https://www.linkedin.com/in/gan-mei-lee-61790a395)
-- Gmail (ganmeilee@graduate.utm.my)
+## ☎️ Contact 
+- [GitHub](https://github.com/alicegan524)
+- [LinkedIn](https://www.linkedin.com/in/gan-mei-lee-61790a395)
+- [Gmail](ganmeilee@graduate.utm.my)
